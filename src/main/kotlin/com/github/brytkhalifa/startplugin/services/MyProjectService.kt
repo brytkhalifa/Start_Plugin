@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.brytkhalifa.startplugin.services
 
+import com.github.brytkhalifa.startplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
